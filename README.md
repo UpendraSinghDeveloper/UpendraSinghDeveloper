@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UpendraSingh
 - 👀 I’m interested in c++, python developer
-- 🌱 I’m currently app_development using flutter
+- 🌱currently app_development using flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me upendrabharatpur29@gmail.com
 
